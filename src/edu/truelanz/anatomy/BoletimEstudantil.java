@@ -10,7 +10,6 @@ public class BoletimEstudantil {
             System.out.println("PROVA DE MINERVA");
         else
             System.out.println("APROVADO");
-
     } 
 }
     
