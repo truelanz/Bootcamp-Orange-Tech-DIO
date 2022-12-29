@@ -1,6 +1,6 @@
 package edu.truelanz.anatomy;
 
-public class Class1 {
+public class Return {
 
     public static void main(String [] args) {
 
