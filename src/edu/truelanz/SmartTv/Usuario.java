@@ -12,29 +12,45 @@ public class Usuario {
         System.out.println("Canal atual: "+ SmartTv.canal);
         System.out.println("Volume atual: "+ SmartTv.volume);
 
-        SmartTv.ligar ();
-        System.out.println("Novo status -> TV ligada? "+ SmartTv.onOff);
         SmartTv.desligar ();
         System.out.println("Novo status -> TV ligada? "+ SmartTv.onOff);
+        SmartTv.ligar ();
+        System.out.println("Novo status -> TV ligada? "+ SmartTv.onOff);
 
 
+        System.out.println(""); 
+        System.out.println(""); 
+        
         
         //Aumentando/Diminuindo o volume.
         SmartTv.aumentarVolume();
+        System.out.println("-----------------");
+        SmartTv.aumentarVolume();
+        System.out.println("-----------------");
         SmartTv.diminuirVolume();
+        System.out.println("-----------------");
         SmartTv.diminuirVolume();
+        System.out.println("-----------------");
         SmartTv.diminuirVolume();
+        System.out.println("-----------------");
         SmartTv.diminuirVolume();
+        System.out.println("-----------------");
         
+        System.out.println(""); 
+        System.out.println(""); 
 
 
         //Mudando de canal.
         SmartTv.canalMaior();
-        System.out.println("(truelanz Channel)");
+        System.out.println("-----------------");
         SmartTv.canalMenor();
-        System.out.println("(Shit Channel) #Perigo, alerta para derretimento de cérebro!");
+        System.out.println("-----------------");
         SmartTv.canalMenor();
+        System.out.println("-----------------");
         SmartTv.canalMenor();
+        System.out.println("-----------------");
+        
+        SmartTv.escolhaCanal(0);
         
     }
 
