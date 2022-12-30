@@ -8,20 +8,20 @@ public class TiposVariaveis1{
 
         //CALCULE QUAL O M2 (METRO QUADRADO) DE UM DETERMINADO LOCAL.
 
-        Scanner in = new Scanner(System.in);
+        try (Scanner in = new Scanner(System.in)) {
+            double x = 0;
+            double y = 0;
+            
+            System.out.println("Digite o comprimento: ");
+            x = in.nextDouble();
+            
+            System.out.println("Digite a largura: ");
+            y = in.nextDouble();
+            
+            double m2 = x*y;
 
-        double x = 0;
-        double y = 0;
-        
-        System.out.println("Digite o comprimento: ");
-        x = in.nextDouble();
-        
-        System.out.println("Digite a largura: ");
-        y = in.nextDouble();
-        
-        double m2 = x*y;
-
-        System.out.println(m2 + "m2");
+            System.out.println(m2 + "m2");
+        }
 
 
 

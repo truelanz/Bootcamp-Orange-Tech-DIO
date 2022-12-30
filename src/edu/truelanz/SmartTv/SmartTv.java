@@ -2,6 +2,8 @@ package edu.truelanz.SmartTv;
 
 import java.util.Scanner;
 
+     //
+
 public class SmartTv {
 
         static boolean onOff = false;
@@ -33,7 +35,7 @@ public class SmartTv {
             canal++;
             System.out.println("Canal " +canal);
             if(canal>=3)
-                System.out.println(canal +" Esse canal NÃO existe, diminua!");
+                System.out.println("Esse canal NÃO existe, diminua!");
                 else if(canal ==2){
                     System.out.println("(truelanz Channel)");
                     }else if(canal ==1){
@@ -46,22 +48,24 @@ public class SmartTv {
             canal--;
             System.out.println("Canal " +canal);
             if(canal<=0)
-                System.out.println(canal +" Esse canal NÃO existe, aumente!");
-                else if (canal == 2){
+                System.out.println("Esse canal NÃO existe, aumente!");
+                else if (canal == 2)
                     System.out.println("(truelanz Channel)");
-                }else if (canal == 1){
+                else if (canal == 1)
                     System.out.println("(Shit Channel) #Perigo, alerta para derretimento de cérebro!");
-                }
+                
 
             }
 
             static Scanner in = new Scanner(System.in);
         public static void escolhaCanal(int escolhaCanal){
-            System.out.println("Escolha de 1 a 2 para qual canal você quer ir");
+            System.out.println("Escolha de 1 a 2 para qual canal você quer ir:");
             escolhaCanal = in.nextInt();
-            if(escolhaCanal<=0 && escolhaCanal>=3)
-                System.out.println(" Esse canal NÃO existe, aumente!");
-            else if (escolhaCanal == 2){
+            if(escolhaCanal<=0){
+                System.out.println("Esse canal NÃO existe, aumente!");
+            }else if(escolhaCanal >=3){
+                System.out.println("Esse canal NÃO existe, aumente!");               
+            }else if (escolhaCanal == 2){
                 System.out.println("(truelanz Channel)");
             }else if (escolhaCanal == 1){
                 System.out.println("(Shit Channel) #Perigo, alerta para derretimento de cérebro!");
