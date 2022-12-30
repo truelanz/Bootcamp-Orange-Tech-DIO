@@ -27,7 +27,7 @@ public class SmartTv {
         public static void diminuirVolume(){
             volume--;
             System.out.println("Diminuindo volume: " +volume);           
-    }
+        }
 
 
         //MUDANDO DE CANAL.
