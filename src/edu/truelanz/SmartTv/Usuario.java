@@ -9,11 +9,15 @@ public class Usuario {
 
         //Ligando/Desligando a TV.
         System.out.println("TV ligada? "+ SmartTv.onOff);
+        System.out.println("");
         System.out.println("Canal atual: "+ SmartTv.canal);
+        System.out.println("");
         System.out.println("Volume atual: "+ SmartTv.volume);
-
+        System.out.println("");
+        
         SmartTv.desligar ();
         System.out.println("Novo status -> TV ligada? "+ SmartTv.onOff);
+        System.out.println("");
         SmartTv.ligar ();
         System.out.println("Novo status -> TV ligada? "+ SmartTv.onOff);
 
@@ -24,17 +28,17 @@ public class Usuario {
         
         //Aumentando/Diminuindo o volume.
         SmartTv.aumentarVolume();
-        System.out.println("-----------------");
+        System.out.println("-------------------------------------------------------------");
         SmartTv.aumentarVolume();
-        System.out.println("-----------------");
+        System.out.println("-------------------------------------------------------------");
         SmartTv.diminuirVolume();
-        System.out.println("-----------------");
+        System.out.println("-------------------------------------------------------------");
         SmartTv.diminuirVolume();
-        System.out.println("-----------------");
+        System.out.println("-------------------------------------------------------------");
         SmartTv.diminuirVolume();
-        System.out.println("-----------------");
+        System.out.println("-------------------------------------------------------------");
         SmartTv.diminuirVolume();
-        System.out.println("-----------------");
+        System.out.println("-------------------------------------------------------------");
         
         System.out.println(""); 
         System.out.println(""); 
@@ -42,13 +46,13 @@ public class Usuario {
 
         //Mudando de canal.
         SmartTv.canalMaior();
-        System.out.println("-----------------");
+        System.out.println("-------------------------------------------------------------");
         SmartTv.canalMenor();
-        System.out.println("-----------------");
+        System.out.println("-------------------------------------------------------------");
         SmartTv.canalMenor();
-        System.out.println("-----------------");
+        System.out.println("-------------------------------------------------------------");
         SmartTv.canalMenor();
-        System.out.println("-----------------");
+        System.out.println("-------------------------------------------------------------");
         
         SmartTv.escolhaCanal(0);
         
