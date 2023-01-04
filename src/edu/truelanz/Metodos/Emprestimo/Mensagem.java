@@ -1,4 +1,4 @@
-package edu.truelanz.Metodos;
+package edu.truelanz.Metodos.Emprestimo;
 
 public class Mensagem {
 
