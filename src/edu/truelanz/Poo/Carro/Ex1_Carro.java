@@ -1,4 +1,4 @@
-package edu.truelanz.Poo;
+package edu.truelanz.Poo.Carro;
 
 public class Ex1_Carro {
 

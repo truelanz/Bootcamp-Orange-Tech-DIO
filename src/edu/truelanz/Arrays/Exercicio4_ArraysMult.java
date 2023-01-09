@@ -13,7 +13,7 @@ public class Exercicio4_ArraysMult {
 
         int[][] m = new int[4][4];
 
-        int numerosAleatorios = random.nextInt(9);
+        random.nextInt(9);
 
         for(int i = 0; i < m.length; i++){ // i e j - dois contadores.
             for(int j = 0; j < m.length; j++) {

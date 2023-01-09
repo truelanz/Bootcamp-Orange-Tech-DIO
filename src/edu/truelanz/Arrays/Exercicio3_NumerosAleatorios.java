@@ -16,7 +16,7 @@ public class Exercicio3_NumerosAleatorios {
         int[] vetorNumerosaleatorios = new int[20];
         int i = 0; // <- Contador;
 
-        for(i = 0; i < vetorNumerosaleatorios.length; i++) { // - Enquanto "i" for menos que o comprimento do vetor (.lenght) add + 1.
+        for(i = 0; i < vetorNumerosaleatorios.length; i++) { // - Enquanto "i" for menor que o comprimento do vetor (.lenght) add + 1.
             int numero = random.nextInt(100); // "bound:100" (limitado a 100) - toda vez
             vetorNumerosaleatorios[i] = numero; // que passa por aqui os números aleatórios são armazenados.
         }
