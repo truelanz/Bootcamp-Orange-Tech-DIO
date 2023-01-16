@@ -1,0 +1,273 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ExceptionPersonalizada2",
+            "request": "launch",
+            "mainClass": "edu.truelanz.TratamentoException.ExceptionPersonalizada2",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionPersonalizada",
+            "request": "launch",
+            "mainClass": "edu.truelanz.TratamentoException.ExceptionPersonalizada",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch UncheckedException2",
+            "request": "launch",
+            "mainClass": "edu.truelanz.TratamentoException.UncheckedException2",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckException",
+            "request": "launch",
+            "mainClass": "edu.truelanz.TratamentoException.CheckException",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch UncheckedException",
+            "request": "launch",
+            "mainClass": "edu.truelanz.TratamentoException.UncheckedException",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio1_OrdemInversa",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Arrays.Exercicio1_OrdemInversa",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio2_Consoantes",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Arrays.Exercicio2_Consoantes",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio3_NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Arrays.Exercicio3_NumerosAleatorios",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio4_ArraysMult",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Arrays.Exercicio4_ArraysMult",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1_List",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Collections.Ex1_List",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceMap",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Collections.InterfaceMap",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceSet",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Collections.InterfaceSet",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrdenacaoList",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Collections.OrdenacaoList",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrdenacaoMap",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Collections.OrdenacaoMap",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrdenacaoSet",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Collections.OrdenacaoSet",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamAPI1",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Collections.StreamAPI1",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio1_NomeIdade",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Estrutura_Repeticao.Exercicio1_NomeIdade",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio2_Nota",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Estrutura_Repeticao.Exercicio2_Nota",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio3_MaiorEMedia",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Estrutura_Repeticao.Exercicio3_MaiorEMedia",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio4_ParEImpar",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Estrutura_Repeticao.Exercicio4_ParEImpar",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio5_Tabuada",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Estrutura_Repeticao.Exercicio5_Tabuada",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio6_Fatorial",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Estrutura_Repeticao.Exercicio6_Fatorial",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioMes",
+            "request": "launch",
+            "mainClass": "edu.truelanz.LogiCondiContrFluxo.ExercicioMes",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch OpLogicos",
+            "request": "launch",
+            "mainClass": "edu.truelanz.LogiCondiContrFluxo.OpLogicos",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch OpRelacionais",
+            "request": "launch",
+            "mainClass": "edu.truelanz.LogiCondiContrFluxo.OpRelacionais",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parametros",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Metodos.Emprestimo.Parametros",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParametrosQuadrilaterosReturn",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Metodos.Return.ParametrosQuadrilaterosReturn",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParametrosQuadrilateros",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Metodos.Sobrecarga.ParametrosQuadrilateros",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch OpTernario",
+            "request": "launch",
+            "mainClass": "edu.truelanz.OperadorTernario.OpTernario",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mensagem",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Poo.Carro.Mensagem",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Executar",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Poo.SobrescritaPolimorfismo.Executar",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch RodarAplicacao",
+            "request": "launch",
+            "mainClass": "edu.truelanz.Poo.TesteHerança.RodarAplicacao",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "edu.truelanz.SmartTv.Usuario",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.truelanz.anatomy.BoletimEstudantil",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Return",
+            "request": "launch",
+            "mainClass": "edu.truelanz.anatomy.Return",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "edu.truelanz.anatomy.Teste",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposVariaveis1",
+            "request": "launch",
+            "mainClass": "edu.truelanz.variaveis.TiposVariaveis1",
+            "projectName": "dio-class1_6c8dd5e0"
+        }
+    ]
+}

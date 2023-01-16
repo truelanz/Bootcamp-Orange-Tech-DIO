@@ -14,16 +14,16 @@ public class Exercicio1_NomeIdade {
         Scanner scan = new Scanner(System.in);
 
     while(true){
-      System.out.println("Nome: ");
+      System.out.println("\nNome: ");
       String nome = scan.next();
       if(nome.equals("0")) break;
 
-      System.out.println("Idade: ");
+      System.out.println("\nIdade: ");
       int idade = scan.nextInt();
       if(idade == 0) break;
     }    
 
-    System.out.println("Continua aqui, porque o 'break' parou com a condicional 'if'.");
+    System.out.println("\nContinua aqui, porque o 'break' parou com a condicional 'if'.");
   }
     
 }
