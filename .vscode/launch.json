@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "edu.truelanz.desafio1.Main",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
             "name": "Launch ExceptionPersonalizada2",
             "request": "launch",
             "mainClass": "edu.truelanz.TratamentoException.ExceptionPersonalizada2",
