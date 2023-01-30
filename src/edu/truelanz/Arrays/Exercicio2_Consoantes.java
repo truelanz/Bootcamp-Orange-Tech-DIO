@@ -37,7 +37,7 @@ public class Exercicio2_Consoantes {
 
         System.out.print("As consoantes são: ");
         for (String consoante : consoantes) {
-            if(consoante != null){ // <- Caso queira que "null" NÃO apareça.
+            if(consoante != null){ // <- Caso queira que 'null" NÃO apareça.
                 System.out.print(consoante + " | ");
             
         }    
