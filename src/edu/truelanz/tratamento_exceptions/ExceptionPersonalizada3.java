@@ -1,4 +1,4 @@
-package edu.truelanz.TratamentoException;
+package edu.truelanz.tratamento_exceptions;
 
 public class ExceptionPersonalizada3 extends Exception {
     

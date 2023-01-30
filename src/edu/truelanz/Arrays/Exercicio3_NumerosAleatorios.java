@@ -1,4 +1,4 @@
-package edu.truelanz.Arrays;
+package edu.truelanz.arrays;
 
 import java.util.Random;
 

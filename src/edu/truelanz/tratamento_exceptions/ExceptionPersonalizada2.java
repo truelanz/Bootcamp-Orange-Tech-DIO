@@ -1,4 +1,4 @@
-package edu.truelanz.TratamentoException;
+package edu.truelanz.tratamento_exceptions;
 
 /* import java.io.FileNotFoundException;
 import java.io.*; */

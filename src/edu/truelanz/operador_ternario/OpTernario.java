@@ -1,4 +1,4 @@
-package edu.truelanz.OperadorTernario;
+package edu.truelanz.operador_ternario;
 
 public class OpTernario {
 

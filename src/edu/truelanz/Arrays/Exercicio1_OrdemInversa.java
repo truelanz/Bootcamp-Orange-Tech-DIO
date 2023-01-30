@@ -1,4 +1,4 @@
-package edu.truelanz.Arrays;
+package edu.truelanz.arrays;
 
 public class Exercicio1_OrdemInversa {
 

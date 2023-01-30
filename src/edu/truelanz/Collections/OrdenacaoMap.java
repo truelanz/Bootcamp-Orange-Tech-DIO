@@ -1,4 +1,4 @@
-package edu.truelanz.Collections;
+package edu.truelanz.collections;
 
 //import java.util.Collections;
 //import java.util.Comparator;

@@ -1,4 +1,4 @@
-package edu.truelanz.Collections;
+package edu.truelanz.collections;
 
 import java.util.Comparator;
 import java.util.HashSet;

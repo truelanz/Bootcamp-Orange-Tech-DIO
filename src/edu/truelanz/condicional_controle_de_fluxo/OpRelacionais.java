@@ -1,4 +1,4 @@
-package edu.truelanz.LogiCondiContrFluxo;
+package edu.truelanz.condicional_controle_de_fluxo;
 
 public class OpRelacionais {
 

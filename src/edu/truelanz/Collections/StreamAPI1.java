@@ -1,4 +1,4 @@
-package edu.truelanz.Collections;
+package edu.truelanz.collections;
 
 import java.util.Arrays;
 //import java.util.Collection;
