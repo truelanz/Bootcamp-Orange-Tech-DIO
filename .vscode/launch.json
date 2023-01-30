@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Test",
             "request": "launch",
+            "mainClass": "edu.truelanz.padroes_de_projetos.facade.Test",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
             "mainClass": "edu.truelanz.padroes_de_projetos.strategy.Test",
             "projectName": "dio-class1_6c8dd5e0"
         },
