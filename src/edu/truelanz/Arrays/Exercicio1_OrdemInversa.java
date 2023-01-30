@@ -4,7 +4,7 @@ public class Exercicio1_OrdemInversa {
 
     /*
      * CRIE UM VETOR DE 6 NÚMEROS INTEIROS
-     *  E MOSTRE NA ORDEM INVERSA.
+     * E MOSTRE NA ORDEM INVERSA.
      */
 
     public static void main(String[] args) {
