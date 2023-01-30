@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "edu.truelanz.padroesgof.Test",
+            "projectName": "dio-class1_6c8dd5e0"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "edu.truelanz.desafio1.Main",

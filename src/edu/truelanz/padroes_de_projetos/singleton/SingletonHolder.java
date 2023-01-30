@@ -1,4 +1,4 @@
-package edu.truelanz.padroesgof;
+package edu.truelanz.padroes_de_projetos.singleton;
 
 /**
  * Singleton "Lazy Holder".
